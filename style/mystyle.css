@@ -1731,6 +1731,7 @@ margin-right: 10px;
     border: 0px solid red;
     cursor: pointer;
 transition: .5s;
+    z-index: 1000;
 
 }
 .up.shwo { 
